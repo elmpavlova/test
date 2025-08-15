@@ -19,3 +19,10 @@ git congig --list
 git commit -m "initial commit" /"комментарий к коммиту"
 
 git log - отобразить коммиты
+
+
+git remote add origin https://elmpavlova@github.com/elmpavlova/test.git
+
+git push -u origin main / master
+
+git push -u origin master
